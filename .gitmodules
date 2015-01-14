@@ -1,3 +1,6 @@
 [submodule "TeaLeaf3D_ref"]
 	path = TeaLeaf3D_ref
 	url = https://github.com/UK-MAC/TeaLeaf3D_ref.git
+[submodule "TeaLeaf3D_OpenCL"]
+	path = TeaLeaf3D_OpenCL
+	url = https://github.com/UK-MAC/TeaLeaf3D_OpenCL.git
